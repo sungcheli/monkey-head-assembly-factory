@@ -1,5 +1,9 @@
 # Monkey-Head Assembly Factory — Isaac Sim Robotics Pipeline
 
+### 🎥 [Watch the demo video](https://youtube.com/shorts/-B6rWuDNboM?si=azGhsGsKBLWwppdV)
+
+[![Demo video](https://img.youtube.com/vi/-B6rWuDNboM/hqdefault.jpg)](https://youtube.com/shorts/-B6rWuDNboM?si=azGhsGsKBLWwppdV)
+
 A simulated two-arm robotic assembly cell built in NVIDIA Isaac Sim: two KUKA
 KR10 arms pick mirror-halved mesh components from production lines, an
 automatic pose-servo mechanism assembles them on a table, and a conveyor
